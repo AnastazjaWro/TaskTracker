@@ -1,0 +1,12 @@
+Co zrobić do mojego TODO list:
+Strone powitalną gdzie będą informacje do mojego githuba, mnie jako autorka oraz skąd mam zdjęcie     X
+zmiana opcji danego posta                   X
+dodawanie nowych postów do bazy danych      X
+sworzenie menu z 4 zakładkami:
+  powitalną                                 X
+  na zadania w trakcie                      O
+  na zadania wykonane                       X
+  na zadania opuszczone                     X
+stworzenie każdej z zakładek                X
+Naprawa buttona                             X
+naprawa modala                              X
